@@ -2,4 +2,4 @@
 
 ### Домик 
 
-![domik](image/domik.png)
+![](image/domik.png)
