@@ -1,5 +1,5 @@
-#Preview
-___
-###Домик 
+# Preview
+
+### Домик 
 
 ![domik](image/domik.png)
